@@ -27,7 +27,7 @@ Pod::Spec.new do |s|
   # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
   s.license          = 'MIT'
   s.author           = { "Maxime Epain" => "maxime.epain@gmail.com" }
-  s.source           = { :git => "https://github.com/maxep/MXPagerView.git", :tag => s.version.to_s }
+  s.source           = { :git => "https://github.com/aiyunxiao/MXPagerView.git", :tag => s.version.to_s }
   s.social_media_url = 'https://twitter.com/MaximeEpain'
 
   s.platform     = :ios, '7.0'
